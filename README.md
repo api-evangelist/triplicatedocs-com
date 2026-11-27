@@ -1,4 +1,4 @@
-# triplicatedocs-com
+# Triplicate
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-triplicatedocs-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://triplicatedocs.com/
+Triplicate provides a free online generator for commercial invoices, proforma invoices, packing lists, shipping instructions, purchase orders, sales contracts, and certificates of origin. Users can fill a single form or use voice input to create documents in multiple languages, with automatic Incoterms checks and weight calculations. The service offers a free tier with no sign‑up and optional Pro plans for $1/month or $10/year adding AI‑assisted quick fill, branding, saved templates, and higher usage limits.
+
+**Areas:** Shipping Tools · AI Assistant · Proforma Invoice
+
+## Triplicate on APIs.io
+
+Everything profiled for Triplicate is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/triplicatedocs-com/](https://apis.io/providers/triplicatedocs-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Triplicate Container API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-container-api/) — The Container API from Triplicate, for container.
+- [Triplicate Documents API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-documents-api/) — The Documents API from Triplicate, for documents.
+- [Triplicate Draft Check API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-draft-check-api/) — The Draft Check API from Triplicate, for draft check.
+- [Triplicate Guides API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-guides-api/) — The Guides API from Triplicate, for guides.
+- [Triplicate Hs API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-hs-api/) — The Hs API from Triplicate, for hs.
+- [Triplicate Letter Of Credit API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-letter-of-credit-api/) — The Letter Of Credit API from Triplicate, for letter of credit.
+- [Triplicate Ports API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-ports-api/) — The Ports API from Triplicate, for ports.
+- [Triplicate Price API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-price-api/) — The Price API from Triplicate, for price.
+- [Triplicate Shipment API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-shipment-api/) — The Shipment API from Triplicate, for shipment.
+- [Triplicate Shipment Plan API](https://apis.io/apis/triplicatedocs-com/triplicatedocs-com-shipment-plan-api/) — The Shipment Plan API from Triplicate, for shipment plan.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Triplicate Agentic Access](https://apis.io/agentic-access/triplicatedocs-com/triplicatedocs-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Triplicate API Rules](https://apis.io/rules/triplicatedocs-com/triplicatedocs-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Triplicate Domain Security](https://apis.io/security/triplicatedocs-com/triplicatedocs-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://triplicatedocs.com/)
+- [API reference](https://triplicatedocs.com/developers/)
+- [Support](https://triplicatedocs.com/support/)
+- [Privacy policy](https://triplicatedocs.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 29.5** — thin · rubric 0.30.0 · scored 2026-11-27
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 50.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 8.5 |
+
+**Agent readiness 22.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+| Unattended Agent Grants | na |
+
+**Regulatory alignment 8.8** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/triplicatedocs-com/](https://apis.io/providers/triplicatedocs-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Triplicate: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/triplicatedocs-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
